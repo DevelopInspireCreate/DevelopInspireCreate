@@ -17,4 +17,4 @@ File an issue [here](https://github.com/DevelopInspireCreate/DevelopInspireCreat
 If you're interested in helping us create content, for example if you have a story to tell, or want to write a blog post, please [contact us](https://developinspirecreate.com/contact).
 
 ***Want to Donate?***  
-If you want to take the extra step and support us financially, you can either [sponsor us through GitHub]() or [donate through paypal](https://developinspirecreate.com/donate).
+If you want to take the extra step and support us financially, you can [donate on our website](https://developinspirecreate.com/donate).
