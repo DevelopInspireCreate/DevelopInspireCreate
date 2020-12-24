@@ -1,5 +1,7 @@
 # DevelopInspireCreate
 
+![](DevelopInspireCreateBG.png)
+
 ## Who are we?
 
 We're https://developinspirecreate.com, a one stop shop for aspiring software engineers looking for guidance in their careers.
