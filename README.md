@@ -15,8 +15,8 @@ Our mission is to help aspiring Software Engineers become the best they possibly
 ***Did you find a bug?***  
 File an issue [here](https://github.com/DevelopInspireCreate/DevelopInspireCreate/issues/new) or in the repository for the specific project.
 
-***Want to Create Content?***  
+***Want to create content or have a suggestion?***  
 If you're interested in helping us create content, for example if you have a story to tell, or want to write a blog post, please [contact us](https://developinspirecreate.com/contact).
 
-***Want to Donate?***  
+***Want to donate?***  
 If you want to take the extra step and support us financially, you can [donate on our website](https://developinspirecreate.com/donate).
